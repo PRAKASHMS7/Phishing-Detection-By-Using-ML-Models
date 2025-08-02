@@ -1,1 +1,0 @@
-Filter-based feature selection approaches are based on data intrinsic attributes such as feature correlation or statistics. These approaches assess the value of each characteristic alone or in pairs without taking into account the performance of a particular learning algorithm.
