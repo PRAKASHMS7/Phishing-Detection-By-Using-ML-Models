@@ -84,7 +84,7 @@ pip install -r requirements.txt
 
 3. Open and run the notebook:
 ```bash
-jupyter notebook MODEL_TRAINING.ipynb
+Google Colab Notebook MODEL_TRAINING.ipynb
 ```
 
 ---
