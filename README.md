@@ -18,9 +18,9 @@ A combination of 10 feature selection techniques and model evaluation using PyCa
 ```
 📁 project-root/
 │
-├── 📜 MODEL_TRAINING.ipynb      # Jupyter notebook for feature selection & model training
+├── 📜 MODEL_TRAINING.ipynb      # Google Colab notebook for feature selection & model training
 ├── 📁 datasets/                 # Phishing dataset (All.csv)
-├── 📁 backend/                  # ML backend API (Flask or FastAPI) – optional
+├── 📁 backend/                  # Machine Learning Models
 └── 📄 README.md                 # Project overview
 ```
 
